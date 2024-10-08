@@ -2,7 +2,7 @@
 
 ![Captura de tela 2024-10-08 185250](https://github.com/user-attachments/assets/361d589d-4eba-476c-b8de-5c74eb1c8ff3)
 
-Demonstração em vídeo:
+Demonstração em vídeo: https://youtu.be/jq0AqHkBMTA
 
 
 # Sobre CS50
